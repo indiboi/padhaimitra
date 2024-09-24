@@ -10,13 +10,8 @@ media
 *.bak 
 
 # Environments 
-.env 
-.venv 
 env/ 
-venv/ 
-ENV/ 
-env.bak/ 
-venv.bak/ 
+env.bak/  
 
 # Visual Studio Code # 
 .vscode/* 
